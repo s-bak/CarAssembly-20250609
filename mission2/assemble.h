@@ -1,0 +1,3 @@
+#define DELAY_TIME_MS 800
+#define INPUT_EXIT -1
+#define INPUT_NOT_NUMBER -2
